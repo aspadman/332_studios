@@ -1,0 +1,3 @@
+﻿  Studio14.cpp
+Studio14.obj : error LNK2001: unresolved external symbol "private: static unsigned int detector::b" (?b@detector@@0IA)
+H:\332_Local_Repo\332_studios\Studio14\Studio14\Debug\Studio14.exe : fatal error LNK1120: 1 unresolved externals
